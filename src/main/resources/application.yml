@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: cart-service
+  profiles:
+    active: ${SPRING_PROFILES_ACTIVE:local}
+server:
+  port: 8083
