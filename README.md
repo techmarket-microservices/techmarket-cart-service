@@ -27,7 +27,7 @@ The Cart Service allows customers to manage their shopping carts, including:
 ## **Tech Stack**
 
 - Java 21
-- Spring Boot 3
+- Spring Boot 3.5.7
 - Spring Data JPA
 - PostgreSQL
 - Redis
